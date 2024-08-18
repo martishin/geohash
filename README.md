@@ -1,4 +1,4 @@
 # Geohash
-Geohash library for Golang
+Geohash implementation in Go
 
 Run tests: `go test -v`

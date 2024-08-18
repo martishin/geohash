@@ -1,6 +1,5 @@
 # Geohash
-Geohash implementation in Go
+Geohash implementation in Go, [algorithm explanation](https://www.martishin.com/posts/project-geohash)
 
 Run tests: `go test -v`
 
-Blog post explaining how geohash works: https://www.martishin.com/posts/project-geohash
